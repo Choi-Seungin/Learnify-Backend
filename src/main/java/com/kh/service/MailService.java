@@ -15,7 +15,11 @@ import lombok.RequiredArgsConstructor;
 public class MailService {
 
 	private final JavaMailSender javaMailSender;
-	private static final String senderEmail = "email";
+
+	// 메일 전송자
+	@Value("${mail.sender.email}")
+    private String senderEmail;
+
 	// 사용자별 인증번호 저장 (이메일 -> 인증번호)
 	private final Map<String, Integer> verificationMap = new HashMap<>();
 
