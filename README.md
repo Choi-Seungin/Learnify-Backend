@@ -132,9 +132,25 @@
 ### - 카카오 로그인 시 기존 회원이 아니면 추가 정보 입력
 
 ![image 1](https://github.com/user-attachments/assets/1d8c48ae-95ab-4e6b-8520-1974c6f33c11)
+이메일은 카카오 아이디에서 가져온 이메일 사용, 기존에 동일한 이메일이 있을 경우 로그인 불가능
 
 ---
 
+### - 아이디 찾기
+
+![image](https://github.com/user-attachments/assets/b1926859-00de-4fb2-a322-d31ff74ae1a3)
+이메일로 인증번호 발송을 요청하고, 이메일 인증이 완료되면 아이디 조회
+비밀번호 찾기 버튼을 누르면 비밀번호 찾기 화면으로 이동
+
+---
+
+### - 비밀번호 찾기
+
+![image](https://github.com/user-attachments/assets/92a5930f-970c-475d-849a-6f62728f5ec4)
+![image](https://github.com/user-attachments/assets/b6f180af-7acf-4dc6-b50c-71511fa41035)
+이메일 인증을 완료하면 해당 이메일로 가입된 계정의 비밀번호를 변경 할 수 있음
+
+---
 ### - 메인페이지(강사로 로그인 했을 경우)
 
 ![screencapture-localhost-3000-2025-02-20-14_34_46](https://github.com/user-attachments/assets/8a50f5f8-bea8-455a-a0f7-c39f52740e98)
@@ -169,8 +185,6 @@
 
 ![screencapture-localhost-3000-class-134-2025-02-20-14_20_56](https://github.com/user-attachments/assets/1f51748a-997e-4a6c-879e-5cb83f8a9b2a)
 
-
-
 강사로 로그인 했을 경우 강의 소개부분 강의 수정, 강의 삭제 버튼이 보임
 강의 하위 메뉴 중 챕터 및 영상 목록이 기본값으로 조회
 
@@ -185,7 +199,7 @@
 ![screencapture-localhost-3000-class-134-2025-02-20-14_24_16](https://github.com/user-attachments/assets/d2ba0d15-b706-4f70-b35d-b6e89beee221)
 
 ---
-### - 강의 상세 페이지→ 강사 소개 페이지(강사로 로그인 했을 경우)
+### - 강의 상세 페이지 → 강사 소개 페이지(강사로 로그인 했을 경우)
 
 ![screencapture-localhost-3000-teacherProfile-19-2025-02-20-14_23_41](https://github.com/user-attachments/assets/247262c5-ee06-43d8-995c-748709ee5112)
 
@@ -209,11 +223,6 @@ toast ui를 활용한 강사 소개 페이지
 
 챕터별로 궁금한 내용을 질문할 수 있음
 
-### - 해당 강의가 수강 상태가 아닐 때, Q&A 조회 불가
-
-![screencapture-localhost-3000-class-134-2025-02-20-14_46_38](https://github.com/user-attachments/assets/e8d900cf-6eed-4149-b8b5-3d4a843d5abc)
-
----
 ### - 수강평 페이지
 
 ![screencapture-localhost-3000-class-134-2025-02-20-14_27_09](https://github.com/user-attachments/assets/1013014d-3973-44c9-bbb3-6e8721d55282)
@@ -247,15 +256,6 @@ toast ui를 활용한 강사 소개 페이지
 및 회원 탈퇴, 비밀번호 변경 기능
 
 ---
-### - 비밀번호 변경(마이페이지에서)
-
-![screencapture-localhost-3000-checkUser-2025-02-20-14_35_36](https://github.com/user-attachments/assets/04d5a561-f478-49cb-bc4f-ce487e58927d)
-
-아이디와 비밀번호 확인
-
-![screencapture-localhost-3000-updatePassword-2025-02-20-14_35_57](https://github.com/user-attachments/assets/c3857ace-ed7f-422e-b006-fe7088d3b26f)
-
----
 ### - 강의 영상(수강생으로 로그인 했을 경우)
 
 ![screencapture-localhost-3000-video-221-2025-02-20-14_38_22](https://github.com/user-attachments/assets/a53fed4f-1355-4a43-a853-1ccbbc34940c)
@@ -287,6 +287,22 @@ toast ui를 활용한 강사 소개 페이지
 ![screencapture-localhost-3000-teacherProfile-19-2025-02-20-14_46_55](https://github.com/user-attachments/assets/dcc1d9dc-bdbc-420e-b4c1-67a329e23ead)
 
 ---
+
+### - 해당 강의가 수강 상태가 아닐 때, Q&A 조회 불가
+
+![screencapture-localhost-3000-class-134-2025-02-20-14_46_38](https://github.com/user-attachments/assets/e8d900cf-6eed-4149-b8b5-3d4a843d5abc)
+
+---
+### - 비밀번호 변경(마이페이지에서)
+
+![screencapture-localhost-3000-checkUser-2025-02-20-14_35_36](https://github.com/user-attachments/assets/04d5a561-f478-49cb-bc4f-ce487e58927d)
+
+아이디와 비밀번호 확인
+
+![screencapture-localhost-3000-updatePassword-2025-02-20-14_35_57](https://github.com/user-attachments/assets/c3857ace-ed7f-422e-b006-fe7088d3b26f)
+
+---
+
 ### - 퀴즈 등록(강사)
 
 ![screencapture-localhost-3000-class-134-2025-02-20-14_52_59_(1)](https://github.com/user-attachments/assets/82bd18fb-ac60-4e20-ace6-47e2849d9fc7)
@@ -299,7 +315,7 @@ toast ui를 활용한 강사 소개 페이지
 ![screencapture-localhost-3000-quiz-134-55-2025-02-20-14_54_52](https://github.com/user-attachments/assets/166d5dfb-fdde-45a5-91f0-5189a74540a5)
 
 ![screencapture-localhost-3000-quiz-134-55-2025-02-20-14_55_13](https://github.com/user-attachments/assets/df37c3e3-1af1-4b47-851d-dd9282536f53)
-정답을 누를 경우 정답과 설명이 나옴
+정답을 누를 경우 정답과 설명이 나옴, 진행률이 저장되어서 퀴즈 진행 중 페이지를 이탈하여도 다시 퀴즈를 풀 경우 마지막으로 진행한 문제부터 시작
 
 ---
 ### - 퀴즈 풀기 완료할 경우
