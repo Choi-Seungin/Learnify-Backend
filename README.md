@@ -98,23 +98,20 @@
 
 >## 구현 화면
 
->### - 로그인
+### - 로그인
 ![image](https://github.com/user-attachments/assets/213f5af6-06db-4d3a-ac31-ec4bb1039fd9)
 카카오 로그인 api 활용, 아이디, 비밀번호 찾기 기능
-<hr style="margin: 0; padding: 0; height: 0.5px; background-color: #ddd; border: none;">
+---
 
 
 ### - 회원가입
 ![5c39bc1d-f189-49bc-9a32-d131217f53bc](https://github.com/user-attachments/assets/856f7f5c-10d5-401d-a5f4-6c6232596799)
-
-
-
 아이디 및 닉네임 중복 확인/수강생 또는 강사 선택하여 회원가입/이메일 인증 기능
-
+---
 ### - 카카오 로그인 시 기존 회원이 아니면 추가 정보 입력
 
 ![image 1](https://github.com/user-attachments/assets/1d8c48ae-95ab-4e6b-8520-1974c6f33c11)
-
+---
 
 ### - 메인페이지(강사로 로그인 했을 경우)
 
@@ -122,14 +119,14 @@
 
 
 최신 강의 조회, 본인이 등록한 강의 조회(최근 강의 10개)
-
+---
 ### - 헤더 검색 기능
     
-    ![screencapture-localhost-3000-classList-2025-02-20-14_06_06](https://github.com/user-attachments/assets/ad82f50f-0a85-46f9-a908-be220a9e67e7)
+![screencapture-localhost-3000-classList-2025-02-20-14_06_06](https://github.com/user-attachments/assets/ad82f50f-0a85-46f9-a908-be220a9e67e7)
 
     
-    특정 단어를 입력하면 그 단어가 포함된 강의 리스트 조회
-    
+특정 단어를 입력하면 그 단어가 포함된 강의 리스트 조회
+---
 ### - 강의 목록 조회
 
 ![screencapture-localhost-3000-classList-2025-02-20-14_05_24](https://github.com/user-attachments/assets/54382e17-1131-476a-8096-10e159d1747d)
