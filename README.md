@@ -209,6 +209,10 @@ toast ui를 활용한 강사 소개 페이지
 
 챕터별로 궁금한 내용을 질문할 수 있음
 
+### - 해당 강의가 수강 상태가 아닐 때, Q&A 조회 불가
+
+![screencapture-localhost-3000-class-134-2025-02-20-14_46_38](https://github.com/user-attachments/assets/e8d900cf-6eed-4149-b8b5-3d4a843d5abc)
+
 ---
 ### - 수강평 페이지
 
@@ -254,74 +258,71 @@ toast ui를 활용한 강사 소개 페이지
 ---
 ### - 강의 영상(수강생으로 로그인 했을 경우)
 
-![강의 제목, 챕터 제목, 영상 제목 상단에 조회, 강의 페이지로 돌아가는 버튼, 이전 영상 및 다음 영상으로 이동하는 버튼](screencapture-localhost-3000-video-221-2025-02-20-14_38_22.png)
+![screencapture-localhost-3000-video-221-2025-02-20-14_38_22](https://github.com/user-attachments/assets/a53fed4f-1355-4a43-a853-1ccbbc34940c)
 
 강의 제목, 챕터 제목, 영상 제목 상단에 조회, 강의 페이지로 돌아가는 버튼, 이전 영상 및 다음 영상으로 이동하는 버튼
 
 ---
 ### - 수강평 작성 (수강생으로 로그인 했을 경우)
 
-![별점과 수강평 내용 작성, 수강평을 이미 작성한 수강생은 작성 불가](screencapture-localhost-3000-class-134-2025-02-20-14_42_33.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_42_33](https://github.com/user-attachments/assets/334aceb6-4f8e-40f7-9fc8-e31fb045daca)
 
 별점과 수강평 내용 작성, 수강평을 이미 작성한 수강생은 작성 불가
 
-![수강평 수정 및 삭제 ](screencapture-localhost-3000-class-134-2025-02-20-14_43_37.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_43_37](https://github.com/user-attachments/assets/38fb235e-a0b7-447d-b9d7-ded4f80e0726)
 
 수강평 수정 및 삭제 
 
 ---
 ### - 채팅 기능(수강생으로 로그인 했을 경우)
 
-![수강중인 상태이면 상태 표시](screencapture-localhost-3000-class-134-2025-02-20-14_44_10.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_44_10](https://github.com/user-attachments/assets/e2b552a5-8de2-4916-95ce-e7c416340543)
 
 수강중인 상태이면 상태 표시
 
 ---
-### - 해당 강의가 수강 상태가 아닐 때, Q&A 조회 불가
 
-![screencapture-localhost-3000-class-134-2025-02-20-14_46_38.png](screencapture-localhost-3000-class-134-2025-02-20-14_46_38.png)
-
----
 ### - 강사 소개(수강생으로 로그인 했을 경우)
 
-![screencapture-localhost-3000-teacherProfile-19-2025-02-20-14_46_55.png](screencapture-localhost-3000-teacherProfile-19-2025-02-20-14_46_55.png)
+![screencapture-localhost-3000-teacherProfile-19-2025-02-20-14_46_55](https://github.com/user-attachments/assets/dcc1d9dc-bdbc-420e-b4c1-67a329e23ead)
 
 ---
 ### - 퀴즈 등록(강사)
 
-![챕터별로 퀴즈 등록 가능, OX퀴즈 형식, 질문과 정답 이유 설명 등록](screencapture-localhost-3000-class-134-2025-02-20-14_52_59_(1).png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_52_59_(1)](https://github.com/user-attachments/assets/82bd18fb-ac60-4e20-ace6-47e2849d9fc7)
 
 챕터별로 퀴즈 등록 가능, OX퀴즈 형식, 질문과 정답 이유 설명 등록
 
 ---
 ### - 퀴즈 풀기(수강생)
 
-![screencapture-localhost-3000-quiz-134-55-2025-02-20-14_54_52.png](screencapture-localhost-3000-quiz-134-55-2025-02-20-14_54_52.png)
+![screencapture-localhost-3000-quiz-134-55-2025-02-20-14_54_52](https://github.com/user-attachments/assets/166d5dfb-fdde-45a5-91f0-5189a74540a5)
+
+![screencapture-localhost-3000-quiz-134-55-2025-02-20-14_55_13](https://github.com/user-attachments/assets/df37c3e3-1af1-4b47-851d-dd9282536f53)
+정답을 누를 경우 정답과 설명이 나옴
 
 ---
 ### - 퀴즈 풀기 완료할 경우
 
-![정답을 누를 경우 정답과 설명이 나옴](screencapture-localhost-3000-quiz-134-55-2025-02-20-14_55_13.png)
+![screencapture-localhost-3000-quiz-134-55-2025-02-20-14_56_13](https://github.com/user-attachments/assets/e0b44b3c-e78b-4ae8-9372-655fe5d65a42)
 
-정답을 누를 경우 정답과 설명이 나옴
-
-![screencapture-localhost-3000-quiz-134-55-2025-02-20-14_56_13.png](screencapture-localhost-3000-quiz-134-55-2025-02-20-14_56_13.png)
+퀴즈 정답률, 강의로 돌아가는 버튼이 나옴
 
 ---
 ### - 퀴즈 풀이 완료 후 재풀이 불가
 
-![screencapture-localhost-3000-class-134-2025-02-20-14_56_23.png](screencapture-localhost-3000-class-134-2025-02-20-14_56_23.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_56_23](https://github.com/user-attachments/assets/998ca1ec-a9e4-4963-87b8-89145113703f)
 
 ---
 ### - 대시보드(수강생)
 
-![수강중인 강의 목록 조회 및 해당 강의 퀴즈 진행률 조회](screencapture-localhost-3000-dashboard-2025-02-20-14_56_44.png)
+![image](https://github.com/user-attachments/assets/e1ad4a7a-8693-4081-a490-36bdbf64048e)
 
 수강중인 강의 목록 조회 및 해당 강의 퀴즈 진행률 조회
 
 ---
 ### - 메인페이지 사이드바
 
-![수강 중인 강의 및 퀴즈 진행률 조회, 본인이 남긴 질문 조회](screencapture-localhost-3000-2025-02-20-14_56_56.png)
+![screencapture-localhost-3000-2025-02-20-14_56_56](https://github.com/user-attachments/assets/e3174b1c-7209-4ce1-b2cc-41ae753776ed)
 
 수강 중인 강의 및 퀴즈 진행률 조회, 본인이 남긴 질문 조회
