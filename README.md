@@ -104,52 +104,59 @@
 카카오 로그인 api 활용, 아이디, 비밀번호 찾기 기능
 
 - 회원가입
+![5c39bc1d-f189-49bc-9a32-d131217f53bc](https://github.com/user-attachments/assets/856f7f5c-10d5-401d-a5f4-6c6232596799)
 
-![아이디 및 닉네임 중복 확인/수강생 또는 강사 선택하여 회원가입/이메일 인증 기능](5c39bc1d-f189-49bc-9a32-d131217f53bc.png)
+
 
 아이디 및 닉네임 중복 확인/수강생 또는 강사 선택하여 회원가입/이메일 인증 기능
 
 - 카카오 로그인 시 기존 회원이 아니면 추가 정보 입력
 
-![image.png](image%201.png)
+![image 1](https://github.com/user-attachments/assets/1d8c48ae-95ab-4e6b-8520-1974c6f33c11)
+
 
 - 메인페이지(강사로 로그인 했을 경우)
 
-![최신 강의 조회, 본인이 등록한 강의 조회(최근 강의 10개)](screencapture-localhost-3000-2025-02-20-14_34_46.png)
+![screencapture-localhost-3000-2025-02-20-14_34_46](https://github.com/user-attachments/assets/8a50f5f8-bea8-455a-a0f7-c39f52740e98)
+
 
 최신 강의 조회, 본인이 등록한 강의 조회(최근 강의 10개)
 
 - 헤더 검색 기능
     
-    ![특정 단어를 입력하면 그 단어가 포함된 강의 리스트 조회](screencapture-localhost-3000-classList-2025-02-20-14_06_06.png)
+    ![screencapture-localhost-3000-classList-2025-02-20-14_06_06](https://github.com/user-attachments/assets/ad82f50f-0a85-46f9-a908-be220a9e67e7)
+
     
     특정 단어를 입력하면 그 단어가 포함된 강의 리스트 조회
     
 - 강의 목록 조회
 
-![카테고리 별 조회](screencapture-localhost-3000-classList-2025-02-20-14_05_24.png)
+![screencapture-localhost-3000-classList-2025-02-20-14_05_24](https://github.com/user-attachments/assets/54382e17-1131-476a-8096-10e159d1747d)
+
 
 카테고리 별 조회
 
 - 강의 등록
 
-![강사 입장에서만 보이는 강의 등록하기 버튼을 누르면 모달이 뜸
-강의 정보를 입력한 후 등록 완료](screencapture-localhost-3000-classList-2025-02-20-14_21_59.png)
+![screencapture-localhost-3000-classList-2025-02-20-14_21_59](https://github.com/user-attachments/assets/c3f6163d-2aa3-42cd-8024-0914a09ed2bd)
+
 
 강사 입장에서만 보이는 강의 등록하기 버튼을 누르면 모달이 뜸
 강의 정보를 입력한 후 등록 완료
 
 - 강의 상세 페이지(강사로 로그인 했을 경우)
 
-![강사로 로그인 했을 경우 강의 소개부분 강의 수정, 강의 삭제 버튼이 보임
-강의 하위 메뉴 중 챕터 및 영상 목록이 기본값으로 조회](screencapture-localhost-3000-class-134-2025-02-20-14_20_56.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_20_56](https://github.com/user-attachments/assets/1f51748a-997e-4a6c-879e-5cb83f8a9b2a)
+
+
 
 강사로 로그인 했을 경우 강의 소개부분 강의 수정, 강의 삭제 버튼이 보임
 강의 하위 메뉴 중 챕터 및 영상 목록이 기본값으로 조회
 
 - 챕터 등록
 
-![image.png](image%202.png)
+![image 2](https://github.com/user-attachments/assets/9ee14787-2fca-4dca-a4dc-6d1018479f65)
+
 
 - 동영상 등록
 
