@@ -46,6 +46,8 @@
 
 >## 개발 도구
 
+- Figma
+  
 - Visual Studio Code
   
 - Spring Tool Suite 4
