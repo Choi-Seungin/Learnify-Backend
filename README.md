@@ -124,8 +124,6 @@
 카카오 로그인 api 활용, 아이디, 비밀번호 찾기 
 
 ---
-
-
 ### - 회원가입
 ![5c39bc1d-f189-49bc-9a32-d131217f53bc](https://github.com/user-attachments/assets/856f7f5c-10d5-401d-a5f4-6c6232596799)
 아이디 및 닉네임 중복 확인/수강생 또는 강사 선택하여 회원가입/이메일 인증 기능
@@ -184,64 +182,62 @@
 ---
 ### - 동영상 등록
 
-![screencapture-localhost-3000-class-134-2025-02-20-14_24_16.png](screencapture-localhost-3000-class-134-2025-02-20-14_24_16.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_24_16](https://github.com/user-attachments/assets/d2ba0d15-b706-4f70-b35d-b6e89beee221)
 
 ---
 ### - 강의 상세 페이지→ 강사 소개 페이지(강사로 로그인 했을 경우)
 
-![toast ui를 활용한 강사 소개 페이지](screencapture-localhost-3000-teacherProfile-19-2025-02-20-14_23_41.png)
+![screencapture-localhost-3000-teacherProfile-19-2025-02-20-14_23_41](https://github.com/user-attachments/assets/247262c5-ee06-43d8-995c-748709ee5112)
 
 toast ui를 활용한 강사 소개 페이지
 
 ---
 ### - 공지사항 페이지
 
-![해당 강의를 등록한 강사일 경우 공지사항 등록 및 삭제 가능](screencapture-localhost-3000-class-134-2025-02-20-14_25_55.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_25_55](https://github.com/user-attachments/assets/f3debbd0-7679-4cec-bbff-67371d4aa6b8)
 
 해당 강의를 등록한 강사일 경우 공지사항 등록 및 삭제 가능
 
 ---
 ### - Q&A게시판
 
-![해당 강의를 등록한 강사이거나, 해당 강의를 수강 중인 학생일 경우 질문 및 답변을 할 수 있음
-](screencapture-localhost-3000-class-134-2025-02-20-14_26_30.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_26_30](https://github.com/user-attachments/assets/f305f374-f90d-4af0-8da0-df6a6be45275)
 
 해당 강의를 등록한 강사이거나, 해당 강의를 수강 중인 학생일 경우 질문 및 답변을 할 수 있음
 
-![챕터별로 궁금한 내용을 질문할 수 있음](screencapture-localhost-3000-class-134-2025-02-20-14_26_48.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_26_48](https://github.com/user-attachments/assets/ce620064-9898-4a40-b1f4-67c98a6e3405)
 
 챕터별로 궁금한 내용을 질문할 수 있음
 
 ---
 ### - 수강평 페이지
 
-![별점 및 해당 강의를 수강한 학생이 남긴 수강평 조회](screencapture-localhost-3000-class-134-2025-02-20-14_27_09.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_27_09](https://github.com/user-attachments/assets/1013014d-3973-44c9-bbb3-6e8721d55282)
 
 별점 및 해당 강의를 수강한 학생이 남긴 수강평 조회
 
 ---
 ### - 강의별 강사-학생 간 채팅 기능
 
-![웹소켓을 활용한 실시간 채팅 기능](screencapture-localhost-3000-class-134-2025-02-20-14_27_37.png)
+![screencapture-localhost-3000-class-134-2025-02-20-14_27_37](https://github.com/user-attachments/assets/79f06547-695d-497c-a604-3a04b1bc3546)
 
 웹소켓을 활용한 실시간 채팅 기능
 
 ---
 ### - 대시보드(강사로 로그인 했을 경우)
 
-![본인이 등록한 강의 목록 조회, 챕터 개수, 영상 개수, 해당 강의의 수강생 수, 평점 조회](screencapture-localhost-3000-dashboard-2025-02-20-14_33_43.png)
+![image](https://github.com/user-attachments/assets/7ab84eb3-2670-4ab7-a36e-3e41204953e1)
 
 본인이 등록한 강의 목록 조회, 챕터 개수, 영상 개수, 해당 강의의 수강생 수, 평점 조회
 
 ---
 ### - 마이페이지
 
-![프로필 이미지를 누르면 새로운 프로필 사진을 업로드할 수 있음](screencapture-localhost-3000-mypage-2025-02-20-14_35_02.png)
+![screencapture-localhost-3000-mypage-2025-02-20-14_35_02](https://github.com/user-attachments/assets/bcf40bb8-8812-4553-9787-bfdca02ee7e0)
 
 프로필 이미지를 누르면 새로운 프로필 사진을 업로드할 수 있음
 
-![이름, 닉네임, 이메일, 전화번호 수정 기능
-및 회원 탈퇴, 비밀번호 변경 기능](screencapture-localhost-3000-mypage-2025-02-20-14_35_20.png)
+![screencapture-localhost-3000-mypage-2025-02-20-14_35_20](https://github.com/user-attachments/assets/da770d3c-1818-45b1-ba3a-0c2e5add29ab)
 
 이름, 닉네임, 이메일, 전화번호 수정 기능
 및 회원 탈퇴, 비밀번호 변경 기능
@@ -249,12 +245,11 @@ toast ui를 활용한 강사 소개 페이지
 ---
 ### - 비밀번호 변경(마이페이지에서)
 
-![아이디와 비밀번호 확인
-](screencapture-localhost-3000-checkUser-2025-02-20-14_35_36.png)
+![screencapture-localhost-3000-checkUser-2025-02-20-14_35_36](https://github.com/user-attachments/assets/04d5a561-f478-49cb-bc4f-ce487e58927d)
 
 아이디와 비밀번호 확인
 
-![screencapture-localhost-3000-updatePassword-2025-02-20-14_35_57.png](screencapture-localhost-3000-updatePassword-2025-02-20-14_35_57.png)
+![screencapture-localhost-3000-updatePassword-2025-02-20-14_35_57](https://github.com/user-attachments/assets/c3857ace-ed7f-422e-b006-fe7088d3b26f)
 
 ---
 ### - 강의 영상(수강생으로 로그인 했을 경우)
