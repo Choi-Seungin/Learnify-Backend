@@ -98,7 +98,7 @@
 
 >## 구현 화면
 
-### - 로그인
+>### - 로그인
 ![image](https://github.com/user-attachments/assets/213f5af6-06db-4d3a-ac31-ec4bb1039fd9)
 카카오 로그인 api 활용, 아이디, 비밀번호 찾기 기능
 <hr style="margin: 0; padding: 0; height: 0.5px; background-color: #ddd; border: none;">
