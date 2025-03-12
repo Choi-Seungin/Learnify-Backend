@@ -99,7 +99,8 @@
 #### - 로그인
 ![image](https://github.com/user-attachments/assets/213f5af6-06db-4d3a-ac31-ec4bb1039fd9)
 카카오 로그인 api 활용, 아이디, 비밀번호 찾기 기능
-<hr style="height:1px; border:none; background-color:lightgray;" />
+<hr style="margin: 0; padding: 0; height: 1px; background-color: #ddd; border: none;">
+
 
 #### - 회원가입
 ![5c39bc1d-f189-49bc-9a32-d131217f53bc](https://github.com/user-attachments/assets/856f7f5c-10d5-401d-a5f4-6c6232596799)
