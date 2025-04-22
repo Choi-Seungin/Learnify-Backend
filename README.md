@@ -12,6 +12,9 @@
 
 [https://www.choi5801.xyz/login](https://www.choi5801.xyz/login)
 
+테스트 계정
+ID : user1(강사), user4(수강생), PASSWORD : 123456
+
 >## GitHub Repo
 
 [FrontEnd](https://github.com/Choi-Seungin/Learnify-Frontend)
